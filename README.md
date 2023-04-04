@@ -1,10 +1,13 @@
 # Svelte
 
-##start
+## start
 cd /workspaces/Svelte/svelte-first
 npm run dev -- --open
 
-##document
+## github
+https://github.com/gorillaLanguage/Svelte/
+
+## document
 
 - https://kit.svelte.jp/
 
